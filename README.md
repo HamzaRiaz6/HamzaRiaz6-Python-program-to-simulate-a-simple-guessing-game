@@ -1,1 +1,1 @@
-# HamzaRiaz6-Python-program-to-simulate-a-simple-guessing-game
+# Python-program-to-simulate-a-simple-guessing-game
